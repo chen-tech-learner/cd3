@@ -5,9 +5,14 @@
             "name": "爱听 | 音乐",
             "type": 3,
             "api": 
-
-"https://cdn.jsdelivr.net/gh/PizazzGY/NewTVBox@main/other/py/爱听音乐.py"
+            "https://cdn.jsdelivr.net/gh/PizazzGY/NewTVBox@main/other/py/爱听音乐.py"
         },          
+        {
+           "key": "私密屋",
+           "name": "潮流私密屋",
+           "type": 4,
+           "api": "py://https://gh-proxy.com/https://6ooooole.com/xxxxxx/vl6honssmjypmg65"
+        },
         {       
             "key": "网络直播",
             "name": "网络 | 直播",
