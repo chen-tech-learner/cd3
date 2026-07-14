@@ -1,20 +1,5 @@
 {
     "sites": [
-       {  
-            "key": "布布影视APP",
-            "name": "布布影视 | APP",
-            "type": 3,
-            "api": "./3qysapp.js",
-            "ext": {
-            "host": "https://asd123sx23xdacsx.top",
-            "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-            "updateId": "0245861b-2ebf-5524-389d-f983830651ec",
-            "deviceBrand": "vivo",
-            "deviceModel": "V2309A",
-            "pkg": "com.sunshine.tv",
-            "sk": "SK-thanks",
-            "ver": "4"
-        },  
         {       
             "key": "网络直播",
             "name": "网络 | 直播",
