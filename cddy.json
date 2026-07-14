@@ -10,9 +10,7 @@
             "key": "哔哩直播",
             "name": "哔哩 | 直播",
             "type": 3,
-            "api": 
-
-"https://cdn.jsdelivr.net/gh/PizazzGY/NewTVBox@main/webcast/py/BLZB.py"
+            "api": "https://cdn.jsdelivr.net/gh/PizazzGY/NewTVBox@main/webcast/py/BLZB.py"
         }
     ]
 }
