@@ -1,13 +1,6 @@
 {
     "sites": [
-        {
-            "key": "爱听音乐",
-            "name": "爱听 | 音乐",
-            "type": 3,
-            "api": 
-            "https://cdn.jsdelivr.net/gh/PizazzGY/NewTVBox@main/other/py/爱听音乐.py"
-       },          
-        {  
+       {  
             "key": "布布影视APP",
             "name": "布布影视 | APP",
             "type": 3,
