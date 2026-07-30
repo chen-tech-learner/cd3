@@ -1,6 +1,13 @@
 ﻿{
 	"spider": "./HeChengChaXiu.jar",
 	"sites": [
+		 {
+           "key": "牛二猫源",
+           "name": "牛二猫源",
+           "type": 3,
+           "api": "https://9280.kstore.vip/cat/index.js.md5",
+            "searchable": 1
+        },
 		{
 			"key": "drpy_js_360影视",
 			"name": "😈心魔自用😈 ",
