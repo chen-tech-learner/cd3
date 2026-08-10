@@ -1,21 +1,35 @@
 {
     "sites":[
-          {
-           "key": "雪乃猫源",
+       {
+         "key": "cat_douer",
+         "name": "豆儿猫源",
+         "type": 3,
+         "api": "https://woleigedouer:woleigedouer@catpaw.douer.me/index.js",
+         "searchable": 1
+       },
+       {
+          "key": "cat_niu2",
+          "name": "牛二猫源",
+          "type": 3,
+           "api": "https://9280.kstore.vip/cat/index.js",
+           "searchable": 1
+       },
+       {
+           "key": "cat_xuenair",
            "name": "雪乃猫源",
            "type": 3,
            "api":  "https://gh-proxy.com/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/xuenai/index.js",
            "searchable": 1
           },
           {
-          "key": "Lmentor猫源",
+          "key": "cat_lmentor",
           "name": "Lmentor猫源",
           "type": 3,
           "api": "https://ghfast.top/https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/lmentor/index.js",
           "searchable": 1
          },
          {
-          "key": "4TV解析",
+          "key": "cat_4tv",
           "name": "4TV解析",
           "type": 3,
           "api": "https://gh-proxy.com/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js",
@@ -23,7 +37,7 @@
           "searchable": 1
         },
         {
-            "key":"虎牙资源",
+            "key":"hyzy",
             "name":"🦋 虎牙资源(有三级片)",
             "type":1,
             "api":"https://www.huyaapi.com/api.php/provide/vod/",
@@ -33,7 +47,7 @@
             "category":"综合"
         },
         {
-            "key":"天涯资源",
+            "key":"tyzy",
             "name":"🦋 天涯资源(有三级片)",
             "type":0,
             "api":"https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
@@ -42,7 +56,7 @@
             "category":"综合"
         },
         {
-            "key":"闪电影视",
+            "key":"sdys",
             "name":"🦋 闪电影视｜追剧",
             "type":1,
             "api":"http://sdzyapi.com/api.php/provide/vod/",
@@ -82,7 +96,7 @@
             "category":"综合"
         },
         {
-            "key":"牛牛影视",
+            "key":"nnys",
             "name":"🦋 牛牛影视｜追剧",
             "type":0,
             "api":"https://api.niuniuzy.me/api.php/provide/vod/at/xml",
@@ -494,7 +508,7 @@
             "category":"福利"
         },
         {
-            "key":"无尽资源",
+            "key":"wujzy",
             "name":"🦋 无尽资源｜🔞",
             "type":1,
             "api":"https://api.wujinapi.net/api.php/provide/vod/",
@@ -504,7 +518,7 @@
             "category":"福利"
         },
         {
-            "key":"玉兔资源",
+            "key":"yutzy",
             "name":"🦋 玉兔資源｜🔞",
             "type":1,
             "api":"https://apiyutu.com/api.php/provide/vod/",
@@ -514,7 +528,7 @@
             "category":"福利"
         },
         {
-            "key":"精品资源",
+            "key":"jingpzy",
             "name":"🦋 精品資源｜🔞",
             "type":1,
             "api":"https://www.jingpinx.com/api.php/provide/vod/",
@@ -524,7 +538,7 @@
             "category":"福利"
         },
         {
-            "key":"夜色资源",
+            "key":"ynzy",
             "name":"🦋 越南資源｜🔞",
             "type":1,
             "api":"https://www.vnzyz.com/api.php/provide/vod/",
@@ -534,7 +548,7 @@
             "category":"福利"
         },
         {
-            "key":"辣椒資源",
+            "key":"lajzj",
             "name":"🦋 辣椒資源｜🔞",
             "type":1,
             "api":"http://apilj.com/api.php/provide/vod/at/json/",
@@ -544,7 +558,7 @@
             "category":"福利"
         },
         {
-            "key":"鯊魚資源",
+            "key":"shayzj",
             "name":"🦋 鯊魚資源｜🔞",
             "type":1,
             "api":"https://shayuapi.com/api.php/provide/vod/",
@@ -554,7 +568,7 @@
             "category":"福利"
         },
         {
-            "key":"155資源",
+            "key":"155zy",
             "name":"🦋 155資源｜🔞",
             "type":1,
             "api":"https://155api.com/api.php/provide/vod/",
@@ -564,7 +578,7 @@
             "category":"福利"
         },
         {
-            "key":"滴滴资源",
+            "key":"didizy源",
             "name":"🦋 滴滴资源｜🔞",
             "type":1,
             "api":"https://api.ddapi.cc/api.php/provide/vod/at/json",
@@ -574,7 +588,7 @@
             "category":"福利"
         },
         {
-            "key":"蕃茄",
+            "key":"fanqie",
             "name":"🦋 18+蕃茄｜🔞",
             "type":1,
             "api":"https://fqzy.me//api.php/provide/vod/",
@@ -584,7 +598,7 @@
             "category":"福利"
         },
         {
-            "key":"红桃🍑",
+            "key":"hongtao",
             "name":"🦋 红桃视频🍑｜🔞",
             "type":1,
             "api":"https://apidanaizi.com/api.php/provide/vod/?ac=list",
@@ -594,7 +608,7 @@
             "category":"福利"
         },
         {
-            "key":"jkun资源",
+            "key":"jkunzy",
             "name":"🦋 jkun资源｜🔞",
             "type":1,
             "api":"https://jkunzyapi.com/api.php/provide/vod",
@@ -604,7 +618,7 @@
             "category":"福利"
         },
         {
-            "key":"精品X资源",
+            "key":"jpxzy",
             "name":"🦋 精品X资源｜🔞",
             "type":1,
             "api":"https://www.jingpinx.com/api.php/provide/vod",
@@ -614,7 +628,7 @@
             "category":"福利"
         },
         {
-            "key":"CK资源",
+            "key":"CKzy",
             "name":"🦋 CK资源｜🔞",
             "type":1,
             "api":"https://ckzy.me/api.php/provide/vod",
@@ -624,7 +638,7 @@
             "category":"福利"
         },
         {
-            "key":"🔞七天资源🌈",
+            "key":"qitzy",
             "name":"🦋 七天资源🌈｜🔞",
             "type":1,
             "api":"https://8day.icu/api.php/provide/vod/at/json",
@@ -634,7 +648,7 @@
             "category":"福利"
         },
         {
-            "key":"百万",
+            "key":"baiwan",
             "name":"🦋 百万｜🔞",
             "type":1,
             "api":"https://api.bwzyz.com/api.php/provide/vod/at/json",
@@ -644,7 +658,7 @@
             "category":"福利"
         },
         {
-            "key":"鸡坤",
+            "key":"jikun",
             "name":"🦋 鸡坤｜🔞",
             "type":1,
             "api":"https://jkunzyapi.com/api.php/provide/vod/",
@@ -662,7 +676,7 @@
             "searchable":0
         },
         {
-            "key":"香蕉资源",
+            "key":"xjzy",
             "name":"🦋 香蕉资源🔞",
             "type":0,
             "api":"https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
@@ -671,7 +685,7 @@
             "category":"福利"
         },
         {
-            "key":"大地采集",
+            "key":"ddcj",
             "name":"🦋 大地av｜🔞",
             "type":0,
             "api":"https://dadiapi.com/apple_m3u8.php",
@@ -682,7 +696,7 @@
             "category":"福利"
         },
         {
-            "key":"*番号资源",
+            "key":"*fanhao",
             "name":"🦋 番号资源｜🔞",
             "type":1,
             "api":"http://fhapi9.com/api.php/provide/vod/",
@@ -692,7 +706,7 @@
             "category":"福利"
         },
         {
-            "key":"黄色仓库|AV",
+            "key":"hsckAV",
             "name":"🦋 黄色仓库(旧)｜🔞",
             "type":1,
             "api":"https://hsckzy.vip/api.php/provide/vod/",
@@ -702,7 +716,7 @@
             "category":"福利"
         },
         {
-            "key":"桃花资源|AV",
+            "key":"taohzyAV",
             "name":"🦋 桃花资源｜🔞",
             "type":1,
             "api":"https://thzy1.me/api.php/provide/vod/",
@@ -712,7 +726,7 @@
             "category":"福利"
         },
         {
-            "key":"乐播资源|AV",
+            "key":"lebzyAV",
             "name":"🦋 乐播资源｜🔞",
             "type":1,
             "api":"https://lbapi9.com/api.php/provide/vod/",
@@ -722,7 +736,7 @@
             "category":"福利"
         },
         {
-            "key":"fqzy资源",
+            "key":"fqzyzy",
             "name":"🦋 国产资源｜🔞",
             "type":1,
             "api":"https://fqzy.me//api.php/provide/vod/?ac=list",
@@ -744,7 +758,7 @@
             "category":"福利"
         },
         {
-            "key":"lsb资源|AV",
+            "key":"lsbzyAV",
             "name":"🦋 lsb资源｜🔞",
             "type":1,
             "api":"https://apilsbzy1.com/api.php/provide/vod/",
@@ -820,7 +834,7 @@
             "searchable":0
         },
         {
-            "key":"色播聚合",
+            "key":"sebzy",
             "name":"🦋 色播聚合(py)｜🔞",
             "type":3,
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/色播聚合.py",
@@ -829,7 +843,7 @@
             "searchable":0
         },
         {
-            "key":"一个区",
+            "key":"yegq",
             "name":"🦋 一个区(py)｜🔞",
             "type":3,
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/一个区.py",
@@ -838,7 +852,7 @@
             "searchable":0
         },
         {
-            "key":"九个区",
+            "key":"jiugq",
             "name":"🦋 九个区(py)｜🔞",
             "type":3,
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/九个区.py",
@@ -847,7 +861,7 @@
             "searchable":0
         },
         {
-            "key":"香蕉视频",
+            "key":"xjyp",
             "name":"🦋 香蕉视频(py)｜🔞",
             "type":3,
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/香蕉视频.py",
@@ -868,7 +882,7 @@
             "category":"福利"
         },
         {
-            "key":"小红薯",
+            "key":"xhs",
             "name":"🦋 小红薯(py)｜🔞",
             "type":3,
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/小红薯.py",
@@ -877,7 +891,7 @@
             "searchable":0
         },
         {
-            "key":"推特",
+            "key":"tuite",
             "name":"🦋 推特(py)｜🔞",
             "type":3,
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/推特.py",
