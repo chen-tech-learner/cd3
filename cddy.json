@@ -10,7 +10,40 @@
             "filterable":1,
             "category":"综合"
         },
+         {
+            "key": "松视开通1",
+            "name": "松视1",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
         {
+            "key": "松视开通2",
+            "name": "松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "XMVideo",
+            "name": "熊猫视频",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1,
+            "jar": "https://gh-proxy.org/raw.githubusercontent.com/yigedashu/xwck/main/lib/182.jar"
+        },
+        {
+            "key": "XMVideo",
+            "name": "🔞熊猫视频1",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "filterable": 1,
+            "jar": "https://gh-proxy.org/raw.githubusercontent.com/yigedashu/xwck/main/lib/1827140.jar"
+        },
+          {
             "key":"tyzy",
             "name":"🦋 天涯资源(有三级片)",
             "type":0,
