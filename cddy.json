@@ -1,4 +1,5 @@
 {
+    "spider": "https://gitee.com/chenleihao2026/cd/raw/master/base.jar",
     "sites":[
         {
             "key":"hyzy",
