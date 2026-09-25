@@ -2,7 +2,7 @@
      "sites":[
         {
             "key":"hyzy",
-            "name":"🦋 虎牙资源(有三级片)",
+            "name":"🎬全网｜影视合集🎬",
             "type":1,
             "api":"https://www.huyaapi.com/api.php/provide/vod/",
             "searchable":0,
@@ -11,16 +11,16 @@
             "category":"综合"
         },
          {
-            "key": "松视开通1",
-            "name": "松视1",
+            "key": "songshi",
+            "name": "🎬全网｜影视合集🎬1",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 0,
             "quickSearch": 0
         },
         {
-            "key": "松视开通2",
-            "name": "松视2",
+            "key": "songshi2",
+            "name": "🎬全网｜影视合集🎬2",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php",
             "searchable": 0,
@@ -28,7 +28,7 @@
         },
         {
             "key": "XMVideo",
-            "name": "熊猫视频",
+            "name": "🎬全网｜影视合集🎬熊猫视频",
             "type": 3,
             "api": "csp_XMVideo",
             "searchable": 1,
@@ -36,8 +36,8 @@
             "jar": "https://gh-proxy.org/raw.githubusercontent.com/yigedashu/xwck/main/lib/182.jar"
         },
         {
-            "key": "XMVideo",
-            "name": "🔞熊猫视频1",
+            "key": "xiongmaoshiping",
+            "name": "🎬全网｜影视合集🎬5",
             "type": 3,
             "api": "csp_XMVideo",
             "filterable": 1,
@@ -45,7 +45,7 @@
         },
           {
             "key":"tyzy",
-            "name":"🦋 天涯资源(有三级片)",
+            "name":"🎬全网｜影视合集🎬6",
             "type":0,
             "api":"https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
             "searchable":0,
@@ -54,7 +54,7 @@
         },
         {
             "key":"sdys",
-            "name":"🦋 闪电影视｜追剧",
+            "name":"🎬全网｜影视合集🎬7",
             "type":1,
             "api":"http://sdzyapi.com/api.php/provide/vod/",
             "searchable":0,
@@ -94,7 +94,7 @@
         },
         {
             "key":"nnys",
-            "name":"🦋 牛牛影视｜追剧",
+            "name":"🎬全网｜影视合集🎬8",
             "type":0,
             "api":"https://api.niuniuzy.me/api.php/provide/vod/at/xml",
             "searchable":0,
@@ -146,7 +146,7 @@
         },
         {
             "key":"aidan",
-            "name":"🦋 艾旦影视(聚)(有三级片)🔞",
+            "name":"🎬全网｜影视合集🎬9",
             "type":1,
             "api":"https://lovedan.net/api.php/provide/vod/",
             "searchable":0,
@@ -156,7 +156,7 @@
         },
         {
             "key":"ttzy",
-            "name":"🦋 天天┃影视(有三级片)🔞",
+            "name":"🎬全网｜影视合集🎬10",
             "type":1,
             "api":"https://api.1080zyku.com/inc/apijson.php",
             "searchable":0,
@@ -166,7 +166,7 @@
         },
         {
             "key":"nxxzy",
-            "name":"🦋 奶香香｜🔞",
+            "name":"🎬全网｜影视合集🎬11",
             "type":1,
             "api":"https://naixxzy.com/api.php/provide/vod",
             "searchable":0,
@@ -176,7 +176,7 @@
         },
         {
             "key":"wujzy",
-            "name":"🦋 无尽资源｜🔞",
+            "name":"🎬全网｜影视合集🎬12",
             "type":1,
             "api":"https://api.wujinapi.net/api.php/provide/vod/",
             "searchable":0,
@@ -186,7 +186,7 @@
         },
         {
             "key":"yutzy",
-            "name":"🦋 玉兔資源｜🔞",
+            "name":"🎬全网｜影视合集🎬13",
             "type":1,
             "api":"https://apiyutu.com/api.php/provide/vod/",
             "searchable":0,
@@ -196,7 +196,7 @@
         },
         {
             "key":"jingpzy",
-            "name":"🦋 精品資源｜🔞",
+            "name":"🎬全网｜影视合集🎬14",
             "type":1,
             "api":"https://www.jingpinx.com/api.php/provide/vod/",
             "searchable":0,
@@ -206,7 +206,7 @@
         },
         {
             "key":"ynzy",
-            "name":"🦋 越南資源｜🔞",
+            "name":"🎬全网｜影视合集🎬15",
             "type":1,
             "api":"https://www.vnzyz.com/api.php/provide/vod/",
             "searchable":0,
@@ -216,7 +216,7 @@
         },
         {
             "key":"lajzj",
-            "name":"🦋 辣椒資源｜🔞",
+            "name":"🎬全网｜影视合集🎬16",
             "type":1,
             "api":"http://apilj.com/api.php/provide/vod/at/json/",
             "searchable":0,
@@ -226,7 +226,7 @@
         },
         {
             "key":"shayzj",
-            "name":"🦋 鯊魚資源｜🔞",
+            "name":"🎬全网｜影视合集🎬17",
             "type":1,
             "api":"https://shayuapi.com/api.php/provide/vod/",
             "searchable":0,
@@ -236,7 +236,7 @@
         },
         {
             "key":"155zy",
-            "name":"🦋 155資源｜🔞",
+            "name":"🎬全网｜影视合集🎬18",
             "type":1,
             "api":"https://155api.com/api.php/provide/vod/",
             "searchable":0,
@@ -246,7 +246,7 @@
         },
         {
             "key":"didizy源",
-            "name":"🦋 滴滴资源｜🔞",
+            "name":"🎬全网｜影视合集🎬19",
             "type":1,
             "api":"https://api.ddapi.cc/api.php/provide/vod/at/json",
             "searchable":0,
@@ -256,7 +256,7 @@
         },
         {
             "key":"fanqie",
-            "name":"🦋 18+蕃茄｜🔞",
+            "name":"🎬全网｜影视合集🎬20",
             "type":1,
             "api":"https://fqzy.me//api.php/provide/vod/",
             "searchable":0,
@@ -266,7 +266,7 @@
         },
         {
             "key":"hongtao",
-            "name":"🦋 红桃视频🍑｜🔞",
+            "name":"🎬全网｜影视合集🎬 红桃视频21",
             "type":1,
             "api":"https://apidanaizi.com/api.php/provide/vod/?ac=list",
             "searchable":0,
@@ -276,7 +276,7 @@
         },
         {
             "key":"jkunzy",
-            "name":"🦋 jkun资源｜🔞",
+            "name":"🎬全网｜影视合集🎬22",
             "type":1,
             "api":"https://jkunzyapi.com/api.php/provide/vod",
             "searchable":0,
@@ -286,7 +286,7 @@
         },
         {
             "key":"jpxzy",
-            "name":"🦋 精品X资源｜🔞",
+            "name":"🎬全网｜影视合集🎬23",
             "type":1,
             "api":"https://www.jingpinx.com/api.php/provide/vod",
             "searchable":0,
@@ -296,7 +296,7 @@
         },
         {
             "key":"CKzy",
-            "name":"🦋 CK资源｜🔞",
+            "name":"🎬全网｜影视合集🎬24",
             "type":1,
             "api":"https://ckzy.me/api.php/provide/vod",
             "searchable":0,
@@ -306,7 +306,7 @@
         },
         {
             "key":"qitzy",
-            "name":"🦋 七天资源🌈｜🔞",
+            "name":"🎬全网｜影视合集🎬25",
             "type":1,
             "api":"https://8day.icu/api.php/provide/vod/at/json",
             "searchable":0,
@@ -316,7 +316,7 @@
         },
         {
             "key":"baiwan",
-            "name":"🦋 百万｜🔞",
+            "name":"🎬全网｜影视合集🎬26",
             "type":1,
             "api":"https://api.bwzyz.com/api.php/provide/vod/at/json",
             "quickSearch":1,
@@ -326,7 +326,7 @@
         },
         {
             "key":"jikun",
-            "name":"🦋 鸡坤｜🔞",
+            "name":"🎬全网｜影视合集🎬27",
             "type":1,
             "api":"https://jkunzyapi.com/api.php/provide/vod/",
             "quickSearch":1,
@@ -336,7 +336,7 @@
         },
         {
             "key":"*AIvin",
-            "name":"🦋 AIvin｜🔞",
+            "name":"🎬全网｜影视合集🎬28",
             "type":0,
             "api":"http://lbapiby.com/api.php/provide/vod/at/xml",
             "category":"福利",
@@ -344,7 +344,7 @@
         },
         {
             "key":"xjzy",
-            "name":"🦋 香蕉资源🔞",
+            "name":"🎬全网｜影视合集🎬29",
             "type":0,
             "api":"https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
             "searchable":0,
@@ -353,7 +353,7 @@
         },
         {
             "key":"ddcj",
-            "name":"🦋 大地av｜🔞",
+            "name":"🎬全网｜影视合集🎬30",
             "type":0,
             "api":"https://dadiapi.com/apple_m3u8.php",
             "playUrl":"https://play.dadiapi.com/watch?url=",
@@ -364,7 +364,7 @@
         },
         {
             "key":"*fanhao",
-            "name":"🦋 番号资源｜🔞",
+            "name":"🎬全网｜影视合集🎬31",
             "type":1,
             "api":"http://fhapi9.com/api.php/provide/vod/",
             "searchable":0,
@@ -374,7 +374,7 @@
         },
         {
             "key":"hsckAV",
-            "name":"🦋 黄色仓库(旧)｜🔞",
+            "name":"🎬全网｜影视合集🎬32",
             "type":1,
             "api":"https://hsckzy.vip/api.php/provide/vod/",
             "quickSearch":1,
@@ -384,7 +384,7 @@
         },
         {
             "key":"taohzyAV",
-            "name":"🦋 桃花资源｜🔞",
+            "name":"🎬全网｜影视合集🎬33",
             "type":1,
             "api":"https://thzy1.me/api.php/provide/vod/",
             "quickSearch":1,
@@ -394,7 +394,7 @@
         },
         {
             "key":"lebzyAV",
-            "name":"🦋 乐播资源｜🔞",
+            "name":"🎬全网｜影视合集🎬34",
             "type":1,
             "api":"https://lbapi9.com/api.php/provide/vod/",
             "quickSearch":1,
@@ -404,7 +404,7 @@
         },
         {
             "key":"fqzyzy",
-            "name":"🦋 国产资源｜🔞",
+            "name":"🎬全网｜影视合集🎬35",
             "type":1,
             "api":"https://fqzy.me//api.php/provide/vod/?ac=list",
             "searchable":0,
@@ -426,7 +426,7 @@
         },
         {
             "key":"lsbzyAV",
-            "name":"🦋 lsb资源｜🔞",
+            "name":"🎬全网｜影视合集🎬36",
             "type":1,
             "api":"https://apilsbzy1.com/api.php/provide/vod/",
             "quickSearch":1,
@@ -436,7 +436,7 @@
         },
         {
             "key":"91",
-            "name":"🦋 传媒系列｜🔞(梯子)",
+            "name":"🎬全网｜影视合集🎬37",
             "type":1,
             "api":"https://91md.me/api.php/provide/vod/",
             "searchable":0,
@@ -446,20 +446,20 @@
      ],
     "lives":[
         {
-            "name":"电视多直播",
+            "name":"📺央卫｜电视直播📺1",
             "type":0,
             "playerType":2,
             "ua":"okhttp/5.3.2",
             "url":"https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt"
         },
         {
-            "name":"全国组播",
+            "name":"📺央卫｜电视组播📺",
             "type":0,
             "ua":"okhttp/5.3.2",
             "url":"https://gh-proxy.org/raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt"
         },
         {
-            "name":"探花🔞｜Tg：@huliys9",
+            "name":"📺央卫｜电视直播📺2",
             "type":0,
             "ua":"okhttp/5.3.2",
             "url":"https://raw.githubusercontent.com/Ameria22/TV/refs/heads/main/data/01%E6%8E%A2%E8%8A%B1%E7%BA%A6%E7%82%AE_20260417_024507.m3u"
