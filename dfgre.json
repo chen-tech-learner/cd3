@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "lebozy.com",
-      "name": "💕乐播(直连)",
+      "name": "📀全网｜影视合集📀",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -10,7 +10,7 @@
     },
     {
       "key": "didizy.com",
-      "name": "♥滴滴(直连)",
+      "name": "📀全网｜影视合集📀1",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -18,7 +18,7 @@
     },
     {
       "key": "量子",
-      "name": "量子",
+      "name": "📀全网｜影视合集📀量子",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
@@ -27,7 +27,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "成人19",
+      "name": "📀全网｜影视合集📀3",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -43,7 +43,7 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "成人21",
+      "name": "📀全网｜影视合集📀4",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "lbapi9.com",
-      "name": "成人26",
+      "name": "📀全网｜影视合集📀5",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
@@ -76,7 +76,7 @@
     },
     {
       "key": "pgxdy.com",
-      "name": "★黄AV(直连)",
+      "name": "📀全网｜影视合集📀6",
       "type": 0,
       "api": "https://www.pgxdy.com/api/xml.php",
       "searchable": 1,
